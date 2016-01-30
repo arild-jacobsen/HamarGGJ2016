@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 5e1f22ffe765e460fa6b27a2f3507d28
+timeCreated: 1454109301
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hv70hs_0
+    21300002: hv70hs_1
+    21300004: hv70hs_2
+    21300006: hv70hs_3
+    21300008: hv70hs_4
+    21300010: hv70hs_5
+    21300012: hv70hs_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hv70hs_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 37}
+        - {x: -24, y: -37}
+        - {x: 18, y: -37}
+        - {x: 24, y: -25}
+        - {x: 24, y: 37}
+    - name: hv70hs_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hv70hs_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -46}
+        - {x: 19, y: -45}
+        - {x: 19, y: 41}
+        - {x: 17, y: 46}
+        - {x: -19, y: 46}
+        - {x: -19, y: -46}
+    - name: hv70hs_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 41}
+        - {x: -23, y: -20}
+        - {x: -22, y: -26}
+        - {x: -3, y: -41}
+        - {x: 17, y: -41}
+        - {x: 23, y: -22}
+        - {x: 23, y: 41}
+    - name: hv70hs_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 4
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 42}
+        - {x: -27, y: 25}
+        - {x: -27, y: 13}
+        - {x: -22, y: 9}
+        - {x: -16, y: -33}
+        - {x: -8, y: -42}
+        - {x: 23, y: -42}
+        - {x: 27, y: -34}
+        - {x: 27, y: 42}
+    - name: hv70hs_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 10
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 38}
+        - {x: -9, y: 38}
+        - {x: -24, y: 25}
+        - {x: -24, y: -38}
+        - {x: 5, y: -38}
+        - {x: 18, y: -33}
+        - {x: 24, y: -13}
+        - {x: 24, y: 23}
+    - name: hv70hs_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 18
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 32}
+        - {x: -8, y: 32}
+        - {x: -29, y: 1}
+        - {x: -30, y: -3}
+        - {x: -30, y: -32}
+        - {x: 29, y: -32}
+        - {x: 30, y: -28}
+        - {x: 30, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
