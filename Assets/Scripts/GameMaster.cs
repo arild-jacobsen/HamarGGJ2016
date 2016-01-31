@@ -19,9 +19,22 @@ public class GameMaster : MonoBehaviour
 
 	int day = 0;
 
+    public static GameMaster Instance;
 
-	// Use this for initialization
-	void Start ()
+    void Awake()
+    {
+        if(Instance)
+                 DestroyImmediate(gameObject);
+             else
+             {
+            DontDestroyOnLoad(gameObject);
+            Instance = this;
+        }
+    }
+
+
+    // Use this for initialization
+    void Start ()
 	{
 		NumberOfChoise = inspectorNumberOfChoise;
 	}
@@ -29,7 +42,6 @@ public class GameMaster : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
 	{
-		DontDestroyOnLoad(this.gameObject);
 		if (NumberOfChoise == 0)
 		{
 			NumberOfChoise = inspectorNumberOfChoise;

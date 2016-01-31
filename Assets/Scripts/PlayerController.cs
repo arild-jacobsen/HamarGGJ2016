@@ -8,11 +8,29 @@ public class PlayerController : MonoBehaviour {
 	Vector3 targetPosition;
 	Animator derAnimator;
 
-	// Use this for initialization
-	void Start () {
+    public enum MyEnumListy { Normal, Happy, Sad }
+    public MyEnumListy TypeOfMood;
+
+    // Use this for initialization
+    void Start () {
 		targetPosition = transform.position;
 		derAnimator = GetComponent<Animator>();
-	}
+        switch (TypeOfMood)
+        {
+            case MyEnumListy.Normal:
+                derAnimator.Play("normal_idle");
+                break;
+            case MyEnumListy.Happy:
+                derAnimator.Play("happy_idle");
+                break;
+            case MyEnumListy.Sad:
+                derAnimator.Play("idle");
+                break;
+            default:
+                Debug.Log("NOTHING");
+                break;
+        }
+    }
 	
 	// Update is called once per frame
 	void Update () {

@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 67436d3b51ad427459f48f0f135f3437
+timeCreated: 1454201553
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: happywalk_0
+    21300002: happywalk_1
+    21300004: happywalk_2
+    21300006: happywalk_3
+    21300008: happywalk_4
+    21300010: happywalk_5
+    21300012: happywalk_6
+    21300014: happywalk_7
+    21300016: happywalk_8
+    21300018: happywalk_9
+    21300020: happywalk_10
+    21300022: happywalk_11
+    21300024: happywalk_12
+    21300026: happywalk_13
+    21300028: happywalk_15
+    21300030: happywalk_16
+    21300032: happywalk_17
+    21300034: happywalk_18
+    21300036: happywalk_19
+    21300038: happywalk_20
+    21300040: happywalk_21
+    21300042: happywalk_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: happywalk_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3373
+        width: 298
+        height: 723
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.5, y: -171.5}
+        - {x: 75.5, y: -101.5}
+        - {x: 27.5, y: 125.5}
+        - {x: 9.5, y: 171.5}
+        - {x: 0.5, y: 181.5}
+        - {x: -24.5, y: 181.5}
+        - {x: -35.5, y: 170.5}
+        - {x: -74.5, y: -143.5}
+        - {x: -74.5, y: -169.5}
+        - {x: -56.5, y: -180.5}
+        - {x: -38.5, y: -180.5}
+        - {x: -34.5, y: -177.5}
+        - {x: 18.5, y: -180.5}
+        - {x: 50.5, y: -180.5}
+    - name: happywalk_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3374
+        width: 328
+        height: 718
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 0.5}
+        - {x: 2, y: -30.5}
+        - {x: -3, y: -57.5}
+        - {x: 45, y: -179.5}
+        - {x: 83, y: -179.5}
+        - {x: 83, y: -107.5}
+        - {x: 41, y: 132.5}
+        - {x: 8, y: 179.5}
+        - {x: -41, y: 179.5}
+        - {x: -82, y: -94.5}
+        - {x: -82, y: -175.5}
+        - {x: -74, y: -179.5}
+        - {x: -34, y: -179.5}
+        - {x: -4, y: -15.5}
+        - {x: -7, y: -3.5}
+        - {x: -14, y: 2.5}
+    - name: happywalk_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3376
+        width: 322
+        height: 713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.5, y: -175.5}
+        - {x: 81.5, y: -169.5}
+        - {x: 81.5, y: -140.5}
+        - {x: 27.5, y: 178.5}
+        - {x: -43.5, y: 178.5}
+        - {x: -80.5, y: 33.5}
+        - {x: -80.5, y: -178.5}
+        - {x: -34.5, y: -178.5}
+        - {x: -4.5, y: -93.5}
+        - {x: 40.5, y: -178.5}
+        - {x: 54.5, y: -178.5}
+    - name: happywalk_3
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3384
+        width: 320
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -75}
+        - {x: 26, y: 178}
+        - {x: -34, y: 178}
+        - {x: -80, y: -134}
+        - {x: -80, y: -163}
+        - {x: -72, y: -176}
+        - {x: -67, y: -178}
+        - {x: -47, y: -178}
+        - {x: -45, y: -173}
+        - {x: -32, y: -178}
+        - {x: 80, y: -178}
+    - name: happywalk_4
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 3381
+        width: 273
+        height: 709
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.5, y: -167}
+        - {x: -40.5, y: -175}
+        - {x: -31.5, y: -161}
+        - {x: 0.5, y: -98}
+        - {x: 4.5, y: -76}
+        - {x: 25.5, y: -177}
+        - {x: 68.5, y: -177}
+        - {x: 68.5, y: -66}
+        - {x: 24.5, y: 176}
+        - {x: 20.5, y: 178}
+        - {x: -47.5, y: 178}
+        - {x: -68.5, y: 46}
+    - name: happywalk_5
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 3376
+        width: 253
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 180}
+        - {x: -63.5, y: 48}
+        - {x: -63.5, y: -155}
+        - {x: -56.5, y: -172}
+        - {x: -35.5, y: -158}
+        - {x: -30.5, y: -151}
+        - {x: -30.5, y: -144}
+        - {x: 11.5, y: -180}
+        - {x: 63.5, y: -180}
+        - {x: 63.5, y: -31}
+        - {x: 24.5, y: 180}
+    - name: happywalk_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2637
+        width: 201
+        height: 718
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 179.5}
+        - {x: 20, y: 180.5}
+        - {x: -13, y: 180.5}
+        - {x: -19, y: 176.5}
+        - {x: -38, y: 116.5}
+        - {x: -34, y: -62.5}
+        - {x: -19, y: -71.5}
+        - {x: -3, y: -64.5}
+        - {x: -5, y: -45.5}
+        - {x: 2, y: -37.5}
+        - {x: -3, y: -68.5}
+        - {x: -33, y: -75.5}
+        - {x: -50, y: -81.5}
+        - {x: -50, y: -120.5}
+        - {x: -36, y: -165.5}
+        - {x: -11, y: -179.5}
+        - {x: 51, y: -179.5}
+        - {x: 51, y: 75.5}
+        - {x: 41, y: 130.5}
+    - name: happywalk_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2623
+        width: 190
+        height: 729
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -86}
+        - {x: 48.5, y: -71}
+        - {x: 48.5, y: 49}
+        - {x: 30.5, y: 159}
+        - {x: 14.5, y: 183}
+        - {x: -39.5, y: 183}
+        - {x: -47.5, y: -63}
+        - {x: -47.5, y: -67}
+        - {x: -15.5, y: -77}
+        - {x: -12.5, y: -68}
+        - {x: -10.5, y: -47}
+        - {x: -6.5, y: -76}
+        - {x: -26.5, y: -80}
+        - {x: -34.5, y: -84}
+        - {x: -47.5, y: -94}
+        - {x: -47.5, y: -123}
+        - {x: -21.5, y: -178}
+        - {x: -11.5, y: -182}
+        - {x: 48.5, y: -182}
+        - {x: 48.5, y: -172}
+        - {x: 46.5, y: -167}
+        - {x: 39.5, y: -164}
+        - {x: 24.5, y: -157}
+    - name: happywalk_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2632
+        width: 185
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 181.5}
+        - {x: -45.5, y: 181.5}
+        - {x: -46.5, y: 177.5}
+        - {x: -46.5, y: -67.5}
+        - {x: -26.5, y: -75.5}
+        - {x: -23.5, y: -67.5}
+        - {x: -21.5, y: -47.5}
+        - {x: -23.5, y: -75.5}
+        - {x: -34.5, y: -80.5}
+        - {x: -46.5, y: -131.5}
+        - {x: -46.5, y: -141.5}
+        - {x: -30.5, y: -181.5}
+        - {x: 43.5, y: -181.5}
+        - {x: 46.5, y: -176.5}
+        - {x: 46.5, y: 69.5}
+        - {x: 19.5, y: 154.5}
+    - name: happywalk_9
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2632
+        width: 201
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -127.5}
+        - {x: -16.5, y: -117.5}
+        - {x: -11.5, y: -107.5}
+        - {x: -17.5, y: -122.5}
+        - {x: -17.5, y: -128.5}
+        - {x: -11.5, y: -147.5}
+        - {x: -1.5, y: -161.5}
+        - {x: 14.5, y: -153.5}
+        - {x: 50.5, y: -96.5}
+        - {x: 50.5, y: 4.5}
+        - {x: 17.5, y: 181.5}
+        - {x: -41.5, y: 181.5}
+        - {x: -50.5, y: 149.5}
+        - {x: -50.5, y: -176.5}
+        - {x: -40.5, y: -181.5}
+        - {x: -8.5, y: -181.5}
+        - {x: -7.5, y: -178.5}
+        - {x: -8.5, y: -169.5}
+        - {x: -16.5, y: -161.5}
+    - name: happywalk_10
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2639
+        width: 213
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -130}
+        - {x: 15.5, y: -178}
+        - {x: 33.5, y: -171}
+        - {x: 40.5, y: -164}
+        - {x: 53.5, y: -143}
+        - {x: 53.5, y: 67}
+        - {x: 24.5, y: 180}
+        - {x: -34.5, y: 180}
+        - {x: -53.5, y: -2}
+        - {x: -53.5, y: -178}
+        - {x: -48.5, y: -179}
+        - {x: -11.5, y: -179}
+        - {x: -7.5, y: -174}
+        - {x: -20.5, y: -143}
+        - {x: 2.5, y: -89}
+    - name: happywalk_12
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2654
+        width: 337
+        height: 699
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: -147}
+        - {x: 30, y: 157}
+        - {x: 13, y: 175}
+        - {x: -49, y: 175}
+        - {x: -84, y: 7}
+        - {x: -84, y: -175}
+        - {x: 78, y: -175}
+        - {x: 85, y: -169}
+        - {x: 85, y: -151}
+    - name: happywalk_13
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2656
+        width: 269
+        height: 701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: -11.5}
+        - {x: 45, y: 175.5}
+        - {x: -31, y: 175.5}
+        - {x: -66, y: -63.5}
+        - {x: -67, y: -74.5}
+        - {x: -67, y: -169.5}
+        - {x: -49, y: -175.5}
+        - {x: -28, y: -175.5}
+        - {x: -20, y: -171.5}
+        - {x: 3, y: -175.5}
+        - {x: 68, y: -175.5}
+    - name: happywalk_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1910
+        width: 314
+        height: 698
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 174.5}
+        - {x: -54.5, y: 107.5}
+        - {x: -78.5, y: -44.5}
+        - {x: -78.5, y: -174.5}
+        - {x: 78.5, y: -174.5}
+        - {x: 78.5, y: 60.5}
+        - {x: 23.5, y: 174.5}
+    - name: happywalk_16
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1909
+        width: 300
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 176}
+        - {x: -26, y: 163}
+        - {x: -42, y: 106}
+        - {x: -75, y: -47}
+        - {x: -75, y: -175}
+        - {x: 76, y: -175}
+        - {x: 76, y: 49}
+        - {x: 41, y: 176}
+    - name: happywalk_17
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1920
+        width: 271
+        height: 689
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 172.5}
+        - {x: -6.5, y: 172.5}
+        - {x: -67.5, y: -9.5}
+        - {x: -67.5, y: -172.5}
+        - {x: -49.5, y: -172.5}
+        - {x: -37.5, y: -151.5}
+        - {x: 16.5, y: -172.5}
+        - {x: 68.5, y: -172.5}
+        - {x: 68.5, y: 62.5}
+        - {x: 50.5, y: 141.5}
+    - name: happywalk_18
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1904
+        width: 248
+        height: 699
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 175}
+        - {x: -18, y: 168}
+        - {x: -32, y: -59}
+        - {x: -13, y: -79}
+        - {x: 4, y: -71}
+        - {x: 4, y: -57}
+        - {x: 9, y: -48}
+        - {x: 3, y: -77}
+        - {x: -55, y: -115}
+        - {x: -62, y: -120}
+        - {x: -62, y: -149}
+        - {x: -60, y: -158}
+        - {x: -42, y: -175}
+        - {x: 63, y: -175}
+        - {x: 63, y: 85}
+        - {x: 44, y: 175}
+    - name: happywalk_19
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1900
+        width: 187
+        height: 701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 175.5}
+        - {x: -41, y: 175.5}
+        - {x: -47, y: 141.5}
+        - {x: -47, y: -37.5}
+        - {x: -42, y: -66.5}
+        - {x: -19, y: -78.5}
+        - {x: -12, y: -69.5}
+        - {x: -12, y: -55.5}
+        - {x: -13, y: -50.5}
+        - {x: -3, y: -87.5}
+        - {x: -47, y: -125.5}
+        - {x: -47, y: -160.5}
+        - {x: -29, y: -170.5}
+        - {x: -24, y: -160.5}
+        - {x: -11, y: -175.5}
+        - {x: 45, y: -175.5}
+        - {x: 47, y: -171.5}
+        - {x: 47, y: 117.5}
+        - {x: 40, y: 154.5}
+    - name: happywalk_20
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1887
+        width: 205
+        height: 714
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 179.5}
+        - {x: -51, y: 179.5}
+        - {x: -51, y: -163.5}
+        - {x: -30, y: -178.5}
+        - {x: 32, y: -178.5}
+        - {x: 52, y: -127.5}
+        - {x: 52, y: 2.5}
+    - name: happywalk_21
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1900
+        width: 205
+        height: 708
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 177}
+        - {x: -45, y: 177}
+        - {x: -51, y: 173}
+        - {x: -51, y: -177}
+        - {x: 5, y: -177}
+        - {x: 52, y: -89}
+        - {x: 52, y: -19}
+        - {x: 12, y: 151}
+    - name: happywalk_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1173
+        width: 220
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -155.5}
+        - {x: 8, y: -176.5}
+        - {x: 29, y: -176.5}
+        - {x: 55, y: -113.5}
+        - {x: 55, y: 4.5}
+        - {x: 5, y: 177.5}
+        - {x: -35, y: 177.5}
+        - {x: -43, y: 159.5}
+        - {x: -55, y: 85.5}
+        - {x: -55, y: -176.5}
+        - {x: -16, y: -176.5}
+        - {x: -9, y: -173.5}
+        - {x: -16, y: -156.5}
+        - {x: -4, y: -91.5}
+        - {x: -12, y: -147.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
