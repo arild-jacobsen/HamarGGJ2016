@@ -1,9 +1,10 @@
 <div align = center>
 
-# RE Convery
+# RE Covery
 ### Originally made for a Global Gamejam 2016 event in Hamar<br>
 A point-and-click game about fighting depression.<br>
-<sub>A lot of the art in the game was still placeholders at the end of the gamejam. This was simply a POC</sub>
+<sub>A lot of the art in the game was still placeholders at the end of the gamejam. This was simply a POC</sub><br>
+<sub>Put together by a team of people over two days.</sub>
 
 <p align="center">
     <kbd>
